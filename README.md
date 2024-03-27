@@ -5,7 +5,9 @@ This project demonstrates the implementation of a dynamic splash screen using Mo
 ## Demo
 
 
-https://github.com/KajalBhammar/Custom-Splash-Screen/assets/93076200/6299a92d-5bab-49c4-8048-0d4d25d435d9
+
+https://github.com/KajalBhammar/Custom-Splash-Screen/assets/93076200/a572fbb2-1368-4ec3-a74c-c6d1b0ea5224
+
 
 
 ## Files Included
